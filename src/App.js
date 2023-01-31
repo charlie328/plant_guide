@@ -5,9 +5,11 @@ import Main from './components/Main'
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
+      {data.map((data) => (
       <Nav />
       <Main data={data} />
+      ))}
     </div>
   )
 }

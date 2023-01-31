@@ -6,7 +6,7 @@
     "light-req": "Bright indirect to medium indirect light",
     "water-req": "Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light and less often in lower light. Monsteras can benefit from filtered water or leaving water out overnight before using.",
     "notes": "Monsteras are climbing plants and love to ascend vertical surfaces. If you want to grow your Monstera tall instead of wide, use stakes or moss sticks to guide its growth upward. Monsteras appreciate a warm, humid environment, a good amount of water and gentle sunlight.",
-    "image": "xhttp://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSKj-rcawftngt1iMiQf7EFos3RHnmKN0yvD4BkXTJ6VVe8s6wwyLYLCBiOf9YfHQIZyotJRrk3RSYxIqA",
+    "image": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSKj-rcawftngt1iMiQf7EFos3RHnmKN0yvD4BkXTJ6VVe8s6wwyLYLCBiOf9YfHQIZyotJRrk3RSYxIqA",
     "catagories": ["bedroom"],
     "id": 1
   },
@@ -83,7 +83,7 @@
   },
   {
     "name": "Mother of thousands",
-    "scientific name": "Kalanchoe houghtonii",
+    "scientific-name": "Kalanchoe houghtonii",
     "origin": "Madagascar and tropical Africa",
     "light-req": "Bright light or lightly filtered shade. At least 4-5 hours of direct sunlight for best results",
     "water-req": "Is very drought tolerant, but prefers at least one soak each week. More water in warmer months. Try not to water on the leaves, but only add water to the soil",
@@ -93,8 +93,8 @@
     "id": 8
   },
   {
-    "name": "Burro's-tail",
-    "scientific name": "Sedum morganianum",
+    "name": "Burro's tail",
+    "scientific-name": "Sedum morganianum",
     "origin": "Southern Mexico",
     "light-req": "Bright light that bathes the plant.",
     "water-req": "As a succulent it is heat and drought tolerant, well suited for warm temperates. Plat needs good drainage. Water mildly once a week.",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Spider plant",
-    "scientific name": "Chlorophytum comosum",
+    "scientific-name": "Chlorophytum comosum",
     "origin": "South and West African",
     "light-req": "Bright to moderate light with little to no direct light.",
     "water-req": "Keep the soil slightly moist. Once-a-week watering is sufficient in spring and summer; in winter, allow the soil to dry a bit more between waterings.",
@@ -116,7 +116,7 @@
   },
   {
     "name": "Bird of paradise",
-    "scientific name": "Strelitzia nicolai",
+    "scientific-name": "Strelitzia nicolai",
     "origin": "South Africa",
     "light-req": "Medium Light, best in a bright location with mostly indirect light.",
     "water-req": "Bird of Paradise prefer moist (but not soggy) soil. Try to never let the soil dry completely, but be careful not to over water. Generally, it is optimal to water when the top 2-3 inches of the soil are dry. Bird of Paradise love humidity and will reward regular misting with profuse growth.",
@@ -128,7 +128,7 @@
   },
   {
     "name": "Satin pothos",
-    "scientific name": "Scindapsus pictus",
+    "scientific-name": "Scindapsus pictus",
     "origin": "Southeast Asia",
     "light-req": "Prefers medium to bright indirect light, but can tolerate low indirect light.",
     "water-req": "Water every 1-2 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light and less often in lower light.",
@@ -140,8 +140,8 @@
     "id": 12
   },
   {
-    "name": "Crocodile Fern",
-    "scientific name": "Microsorium musifolium 'Crocydyllus'",
+    "name": "Crocodile fern",
+    "scientific-name": "Microsorium musifolium 'Crocydyllus'",
     "origin": "Southeast Asia and parts of Australia",
     "light-req": "Ranges of light as long as it is indirect.",
     "water-req": "Water your plant thoroughly and consistently. When you notice the top of the soil getting dry, water until it drains out of the bottom of the pot. Although you have to make sure it drains access water so it isn't waterlogged.",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Staghorn fern",
-    "scientific name": "Platycerium bifurcatum",
+    "scientific-name": "Platycerium bifurcatum",
     "origin": "Primarily Africa, Australia and Southeast Asia",
     "light-req": "bright, indirect light preferred, but dappled or filtered light can work.",
     "water-req": "A good rule of thumb is to water once per week in dry, hot times of year, and once every two weeks during cooler months. However more humidity can mean less watring and vice versa. Try not to water in the center of the plant.",
@@ -165,7 +165,7 @@
   },
   {
     "name": "Bromeliad",
-    "scientific name": "Bromeliaceae",
+    "scientific-name": "Bromeliaceae",
     "origin": "Tropical Americas",
     "light-req": "Medium to bright light as indoor specimens.",
     "water-req": "I typically water very little on the actual soil. Instead I create a humid environment by adding water to the cups the base leaves create.",
@@ -176,7 +176,7 @@
   },
   {
     "name": "Arrowhead plant",
-    "scientific name": "Syngonium podophyllum",
+    "scientific-name": "Syngonium podophyllum",
     "origin": "Mexico to Ecuador",
     "light-req": "Medium to bright light, tolerates low light.",
     "water-req": "Out of the plants in my room it prefers a bit more water, but let soil dry out halfway between waterings. Increase frequency with increased light.",
@@ -187,7 +187,7 @@
   },
   {
     "name": "Jade",
-    "scientific name": "Crassula ovata",
+    "scientific-name": "Crassula ovata",
     "origin": "South Africa",
     "light-req": "Direct light, at least 4 hours per day in a south-facing or west-facing window.",
     "water-req": "Keep soil moist but not wet during the growing season (spring and summer) and let the soil dry out during the dormant season (fall and winter). Watering weekly to twice weekly depending on how much light it gets.",
@@ -199,7 +199,7 @@
   },
   {
     "name": "Maiden hair fern",
-    "scientific name": "Adiantum",
+    "scientific-name": "Adiantum",
     "origin": "Widely spread, most noteable the Americas",
     "light-req": "Bright indirect to medium indirect light.",
     "water-req": "Most frequently found on rich wooded slopes, ravine bottoms and damp shady woods. As such it prefers ample moisture and can't stand to dry out much.",
@@ -210,7 +210,7 @@
   },
   {
     "name": "African milk bush",
-    "scientific name": "Euphorbia trigona",
+    "scientific-name": "Euphorbia trigona",
     "origin": "Central Africa",
     "light-req": "Bright direct light",
     "water-req": "Drought tolerant and likes to dry out completely between each watering. They will not tolerate wet or soggy soil so make sure it is a well draining soil mix. Water mildly once a week at night, as it mimics the watering it receives in nature.",
@@ -221,7 +221,7 @@
   },
   {
     "name": "ZZ plant",
-    "scientific name": "Zamioculcas zamiifolia",
+    "scientific-name": "Zamioculcas zamiifolia",
     "origin": "East Africa, from Kenya to South Africa",
     "light-req": "Thrives in medium to bright indirect light, but can tolerate low indirect light. Not suited for intense, direct sun.",
     "water-req": "Water once every 2-3 weeks, allowing soil to dry out between waterings. Expect to water more often in brighter light and less often in lower light or winter months.",
@@ -232,7 +232,7 @@
   },
   {
     "name": "Rattlesnake calathea",
-    "scientific name": "Goeppertia insignis",
+    "scientific-name": "Goeppertia insignis",
     "origin": "Brazil",
     "light-req": "Can be anywhere from bright to lower light as long as it is indirect",
     "water-req": "Do best in evenly moist soil, but they don't like being waterlogged or too dry. This means you should water when the surface of the soil feels dry -- once a week or even more if conditions are dry. I keep this plant in the bathroom where there is bright indirect light and humidity from the shower. This plant also is picky about water and prefers that you let the water sit overnight or a period of time before use.",
@@ -242,8 +242,8 @@
     "id": 21
   },
   {
-    "name": "Monstera Ginny",
-    "scientific name": "Rhaphidophora tetrasperma",
+    "name": "Monstera ginny",
+    "scientific-name": "Rhaphidophora tetrasperma",
     "origin": "Southeast Asia — specifically the Malay Peninsular areas of Southern Thailand and Malaysia",
     "light-req": "Bright indirect or filtered light",
     "water-req": "Moderate watering + misting -- it likes humidity. Allow soil to partially dry out before watering, but can also spray leaves with water to create a humid environment",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Red hot poker",
-    "scientific name": "Kniphofia uvaria",
+    "scientific-name": "Kniphofia uvaria",
     "origin": "South Africa",
     "light-req": "Full sun",
     "water-req": "Drought resistant, but likes 1 inch per week in the spring and summer. This plant needs moisture when the blooms are forming and will fail to flower if conditions are too dry.",
@@ -266,7 +266,7 @@
   },
   {
     "name": "Canna",
-    "scientific name": "Canna",
+    "scientific-name": "Canna",
     "origin": "South America, Central America, the West Indies, and Mexico",
     "light-req": "Full sun",
     "water-req": "Wet soil. If soil doesn't remain moist, provide a good soaking once a week and every other day during the hottest weeks of summer. Water freely in dry spells.",
@@ -278,7 +278,7 @@
   },
   {
     "name": "Elephant ear",
-    "scientific name": "Colocasia",
+    "scientific-name": "Colocasia",
     "origin": "Southeast Asia",
     "light-req": "Sun with partial shade to dappled light",
     "water-req": "This plant likes to grow in heavily watered conditions and the more sun they receive the more water they will require. Will need daily watering in summer months.",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Sage",
-    "scientific name": "Salvia officinalis",
+    "scientific-name": "Salvia officinalis",
     "origin": "Mediterranean region",
     "light-req": "Partial to full sun",
     "water-req": "Once it has an established root system, sage can thrive on weekly waterings unlike my other outdoor plants. It's very hearty and easy to care for.",
@@ -300,7 +300,7 @@
   },
   {
     "name": "Honeysuckle vine",
-    "scientific name": "x",
+    "scientific-name": "x",
     "origin": "x",
     "light-req": "x",
     "water-req": "x",
@@ -311,7 +311,7 @@
   },
   {
     "name": "Spanish flag",
-    "scientific name": "x",
+    "scientific-name": "x",
     "origin": "x",
     "light-req": "x",
     "water-req": "x",
@@ -322,7 +322,7 @@
   },
   {
     "name": "Blueberry bush",
-    "scientific name": "x",
+    "scientific-name": "x",
     "origin": "x",
     "light-req": "x",
     "water-req": "x",
@@ -333,7 +333,7 @@
   },
   {
     "name": "Rosemary",
-    "scientific name": "x",
+    "scientific-name": "x",
     "origin": "x",
     "light-req": "x",
     "water-req": "x",
