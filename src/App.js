@@ -6,9 +6,11 @@ import Main from './components/Main'
 const App = () => {
   return (
     <div className="App">
-      {data.map((data) => (
-      <Nav />
-      <Main data={data} />
+      {data.map(() => (
+        <>
+          <Nav />
+          <Main />
+        </>
       ))}
     </div>
   )
