@@ -1,12 +1,12 @@
 import './App.css'
-import data from './data.json'
+import plants from './data.json'
 import Nav from './components/Nav'
 import Main from './components/Main'
 
 const App = () => {
   return (
     <div className="App">
-      {data.map(() => (
+      {plants.map(() => (
         <>
           <Nav />
           <Main />
