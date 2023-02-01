@@ -1,15 +1,14 @@
 import Image from './Image'
 
-const Plant = () => {
+const Plant = (props) => {
   return (
     <div>
-name
-scientific-name
-origin
-light-req
-water-req
-notes
-image
+      <p>name</p>
+      <p>scientific-name</p>
+      <p>origin</p>
+      <p>light-req</p>
+      <p>water-req</p>
+      <p>notes</p>
     </div>
   )
 }
