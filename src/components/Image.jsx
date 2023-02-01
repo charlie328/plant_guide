@@ -1,6 +1,9 @@
-const Image = () => {
+
+const Image = (props) => {
   return (
-    <div>Image</div>
+    <div>
+      <img src={props.image}/>
+    </div>
   )
 }
 

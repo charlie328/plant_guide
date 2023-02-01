@@ -9,7 +9,7 @@ const Plant = (props) => {
       <p>Light: {props.lightReq}</p>
       <p>Watering: {props.waterReq}</p>
       <p>Notes: {props.notes}</p>
-      <img src={props.image}/>
+      <Image image={props.image} />
     </div>
   )
 }
