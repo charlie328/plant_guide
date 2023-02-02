@@ -1,4 +1,5 @@
 import './App.css'
+import './fonts/Sage.otf'
 import plants from './plants.json'
 import Nav from './components/Nav'
 import Main from './components/Main'

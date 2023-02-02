@@ -5,6 +5,27 @@ body {
   background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%); */
 }
 
+@font-face {
+  font-family: "Sage";
+  src: local("Sage"), url("./fonts/Sage.otf"), format("opentype");
+}
+
+.nav {
+  background-color: #68B684;
+  height: 60pt;
+  margin-top: -36px;
+}
+
+h1 {
+color: white;
+/* font-family: Sage; */
+font-family: montserrat;
+font-size: 38pt;
+line-height: 60pt;
+margin-left: 3vw;
+}
+/* responsive font size */
+
 .main {
   display: flex;
   width: 98vw;
@@ -12,16 +33,10 @@ body {
   align-items: center;
 }
 
-h1 {
-color: white;
-background-color: #68B684;
-}
-/* responsive font size */
-
 
 h2 {
   font-family: montserrat;
-  font-weight: bold;
+  /* font-weight: bold; */
   font-size: 38pt;
   /* font-size: 3vw; */
   /* line-height: 10pt; */
@@ -33,14 +48,14 @@ h2 {
 
 h3 {
   font-family: lora;
-  font-weight: italic;
+  /* font-weight: italic; */
   font-size: 17pt;
   color: #5f6988;
   line-height: 7pt;
 }
 
 p {
-  font-family: lora, Arial, Helvetica, sans-serif;
+  font-family: lora;
   font-size: 11pt;
   display: flex;
 }
@@ -57,6 +72,4 @@ img {
 
 .copyBox {
   margin-left: 2vw;
-
 }
-

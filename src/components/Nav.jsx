@@ -1,8 +1,8 @@
 
 const Nav = () => {
   return (
-    <div>
-      <h1>Page title</h1>
+    <div className="nav">
+      <h1>Plant Guide</h1>
     </div>
   )
 }
