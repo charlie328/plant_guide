@@ -3,8 +3,8 @@ import Image from './Image'
 const Plant = (props) => {
   return (
     <div>
-      <p>{props.name}</p>
-      <p>{props.scientificName}</p>
+      <h2>{props.name}</h2>
+      <h3>{props.scientificName}</h3>
       <p>Origin: {props.origin}</p>
       <p>Light: {props.lightReq}</p>
       <p>Watering: {props.waterReq}</p>
