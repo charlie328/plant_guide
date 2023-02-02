@@ -3,7 +3,7 @@ import Plant from './Plant'
 const Main = (props) => {
 console.log(props)
   return (
-    <div>
+    <div className='main'>
       {props.plants.map((plant) => (
 
           <Plant 
