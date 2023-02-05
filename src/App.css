@@ -20,7 +20,7 @@ h1 {
 color: white;
 /* font-family: Sage; */
 font-family: montserrat;
-font-size: 38pt;
+font-size: 2.735rem;
 line-height: 60pt;
 margin-left: 3vw;
 }
@@ -37,26 +37,25 @@ margin-left: 3vw;
 h2 {
   font-family: montserrat;
   /* font-weight: bold; */
-  font-size: 38pt;
+  font-size: 2.735rem;
   /* font-size: 3vw; */
   /* line-height: 10pt; */
   color: #68B684;
-  /* display: inline-block;  */
-  /* margin-top: -2px; */
+  margin-top: 1.25rem;
 }
 /* responsive font size */
 
 h3 {
   font-family: lora;
   /* font-weight: italic; */
-  font-size: 17pt;
+  font-size: 1.4rem;
   color: #5f6988;
   line-height: 7pt;
 }
 
 p {
   font-family: lora;
-  font-size: 11pt;
+  font-size: .9rem;
   display: flex;
 }
 
