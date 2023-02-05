@@ -109,7 +109,8 @@
     "lightReq": "Bright to moderate light with little to no direct light.",
     "waterReq": "Keep the soil slightly moist. Once-a-week watering is sufficient in spring and summer; in winter, allow the soil to dry a bit more between waterings.",
     "notes": "I have two now, both are progrigantions from the original I had. In good conditions they send out long shoots with little white flowers in the spring.",
-    "image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/10/2048x1365-Houseplants-for-shade-spider-plant-8b7aabb.jpg?quality=90&resize=960%2C640",
+    "image": "https://www.plantvine.com/plants/Variegated-Spider-Plant-2.jpg",
+    "image2": "https://images.immediate.co.uk/production/volatile/sites/10/2018/10/2048x1365-Houseplants-for-shade-spider-plant-8b7aabb.jpg?quality=90&resize=960%2C640",
     "catagories": ["living-room"],
     "id": 10
   },
@@ -235,7 +236,8 @@
     "lightReq": "Can be anywhere from bright to lower light as long as it is indirect",
     "waterReq": "Do best in evenly moist soil, but they don't like being waterlogged or too dry. This means you should water when the surface of the soil feels dry -- once a week or even more if conditions are dry. I keep this plant in the bathroom where there is bright indirect light and humidity from the shower. This plant also is picky about water and prefers that you let the water sit overnight or a period of time before use.",
     "notes": "Calatheas exhibit a phenomenon known as nyctinasty. They move their leaves from day to night as a part of their circadian rhythm. This is why they are in the group known as prayer plants.",
-    "image": "https://cdn.shopify.com/s/files/1/0501/5191/5673/products/2021-01-18-045832827_grande.jpg?v=1655914008",
+    "image": "https://cdn.shopify.com/s/files/1/0235/9017/products/Calathea_rattlesnake_-_hammerandvine-1_1638x2048_55398b9c-dc88-4070-a2c6-65447e977cf0_860x.jpg?v=1589668804",
+    "image-2": "https://cdn.shopify.com/s/files/1/0501/5191/5673/products/2021-01-18-045832827_grande.jpg?v=1655914008",
     "catagories": ["bathroom-hallway-kitchen"],
     "id": 21
   },
@@ -281,7 +283,8 @@
     "lightReq": "Sun with partial shade to dappled light",
     "waterReq": "This plant likes to grow in heavily watered conditions and the more sun they receive the more water they will require. Will need daily watering in summer months.",
     "notes": "Bulbs are commonly found, but will not sprout until ground tempurtures reach around 80 degrees. Typically grows 3-6' tall and as wide. Also known as Taro, it is also grown as a crop.",
-    "image": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/elephant-ear-alocasia-calidora-garden-design_11016.jpg",
+    "image": "https://cdn.shopify.com/s/files/1/0620/2749/7724/products/elephant-ear-jumbo-1.jpg?v=1654545643",
+    "image2": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/elephant-ear-alocasia-calidora-garden-design_11016.jpg",
     "catagories": ["outdoor"],
     "id": 25
   },
@@ -303,7 +306,7 @@
     "lightReq": "x",
     "waterReq": "x",
     "notes": "x",
-    "image": "x",
+    "image": "https://hgtvhome.sndimg.com/content/dam/images/grdn/fullset/2013/5/26/0/100-4102.jpg.rend.hgtvcom.1280.960.suffix/1452822365674.jpeg",
     "catagories": ["outdoor"],
     "id": 27
   },
@@ -314,7 +317,7 @@
     "lightReq": "x",
     "waterReq": "x",
     "notes": "x",
-    "image": "x",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81kPplGRkJL._AC_UL600_SR600,600_.jpg",
     "catagories": ["outdoor"],
     "id": 28
   },
@@ -325,7 +328,7 @@
     "lightReq": "x",
     "waterReq": "x",
     "notes": "x",
-    "image": "x",
+    "image": "https://img.imageboss.me/fourwinds/width/425/dpr:2/s/files/1/2336/3219/products/shutterstock_246215473blue1.jpg?v=1531795854",
     "catagories": ["outdoor"],
     "id": 29
   },
@@ -336,7 +339,7 @@
     "lightReq": "x",
     "waterReq": "x",
     "notes": "x",
-    "image": "x",
+    "image": "https://cdn.shopify.com/s/files/1/2045/8185/products/rosemary-plant.jpg?v=1614279841",
     "catagories": ["outdoor"],
     "id": 30
   }
