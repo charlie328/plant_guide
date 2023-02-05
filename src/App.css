@@ -4,10 +4,8 @@
 }
 
 body {
-  margin: 0px;
+  margin: 0rem;
   width: 98vw;
-  /* background-color: #85FFBD;
-  background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%); */
 }
 
 html {
@@ -28,7 +26,6 @@ font-size: 2.735rem;
 line-height: 60pt;
 margin-left: 3vw;
 }
-/* responsive font size */
 
 .main {
   display: flex;
@@ -40,27 +37,22 @@ margin-left: 3vw;
 
 h2 {
   font-family: montserrat;
-  /* font-weight: bold; */
   font-size: 2.735rem;
-  /* font-size: 3vw; */
-  /* line-height: 10pt; */
   color: #68B684;
   margin-top: 1.25rem;
 }
-/* responsive font size */
 
 h3 {
   font-family: lora;
-  /* font-weight: italic; */
+  font-style: italic;
   font-size: 1.4rem;
   color: #5f6988;
-  line-height: 7pt;
+  /* line-height: 6pt; */
 }
 
 p {
   font-family: lora;
-  font-size: .9rem;
-  display: flex;
+  font-size: 1rem;
 }
 
 img {
